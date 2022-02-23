@@ -1,0 +1,346 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>England's golden watch-bell. Summoning an alarum to death and judgement Licensed according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38396</idno>
+            <idno type="STC">Wing E2970C</idno>
+            <idno type="STC">ESTC R215381</idno>
+            <idno type="EEBO-CITATION">99827275</idno>
+            <idno type="PROQUEST">99827275</idno>
+            <idno type="VID">31692</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38396)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31692)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1907:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>England's golden watch-bell. Summoning an alarum to death and judgement Licensed according to order.</title>
+               </titleStmt>
+               <extent>24 p. : ill. (woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Thackeray at the Angel in Duck-lane near West-smithfield,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1688-1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication and range of suggested imprint dates from Wing.</note>
+                  <note>With an additional title page with the same imprint, which reads: England's golden watch-bell. Summoning an alarum to death and judgement. Or, an exhortation set forth in these times, that every poor sinner, by turning from his sins, may lay hold of this the acceptable day of grace and salvation, to the endless comfort of his precious and immortal soul.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31692:1"/>
+            <p>ENGLAND'S Golden Watch-bell.</p>
+            <p>Summoning an Alarum to <hi>Death</hi> and <hi>Judgement.</hi>
+            </p>
+            <figure>
+               <figDesc>probably a depiction of the Reverend Divine, Dr. J. H.</figDesc>
+            </figure>
+            <p>Licenſed according to Order.</p>
+            <p>Printed for <hi>W. Thackeray</hi> at the <hi>Angel</hi> in <hi>Duck-lane</hi> near <hi>Weſt-ſmithfield.</hi>
+            </p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:31692:2"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of death as an arrow-bearing skeleton</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>depiction of the saints in heaven and the judgement of the righteous and the damned</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:31692:2"/>
+            <p>ENGLAND'S Golden Watch-bell.</p>
+            <p>Summoning an Alarum to Death and Judgment.</p>
+            <p>OR, An Exhortation ſet forth in theſe Times, that every poor Sinner, by turning from his Sins, may lay hold of this the accep<g ref="char:EOLhyphen"/>table day of <hi>Grace</hi> and <hi>Salvation,</hi> to the endleſs comfort of his precious and im<g ref="char:EOLhyphen"/>mortal Soul.</p>
+            <p>WITH The dying Speech and laſt Sayings of the Reverend Divine, Dr. <hi>J. H.</hi> who, after he had been ſtruck with the pains of Death and continued ſpeechleſs ſeven or eight days, coming again to his Speech left it, as his laſt Legacy, to admoniſh all to a ſpeedy Repentance and Amendment of Life.</p>
+            <p>ALSO, Prayers for every day in the Week, a Preparatory Prayer before the Receiving of the Holy Sacra<g ref="char:EOLhyphen"/>ment, another after the Reception, and a Pray<g ref="char:EOLhyphen"/>er ſutable for all young Perſons.</p>
+            <p>Very neceſſary for all Families, <hi>&amp;c.</hi>
+            </p>
+            <p>Licenſed according to Order.</p>
+            <p>Printed for <hi>W. Thackeray</hi> at the <hi>Angel</hi> in <hi>Duck-lane,</hi> near <hi>Weſt-ſmithfield.</hi>
+            </p>
+            <pb facs="tcp:31692:3"/>
+         </div>
+      </front>
+      <body>
+         <div type="religious_tract">
+            <pb n="5" facs="tcp:31692:3"/>
+            <head>
+               <hi>ENGLANDS</hi> Golden Watch-bell, <hi>&amp;c.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Heb.</hi> chap. 9. ver. 27.</bibl>
+                  <p>It is appointed for all Men once to dye, and after Death to come to Judgment.</p>
+               </q>
+            </epigraph>
+            <p>IF Men, as it the Saying of an eminent Father of the Primitive Church, would always have Death and Judgment be<g ref="char:EOLhyphen"/>fore their Eyes; if they would but fancy ſe<g ref="char:EOLhyphen"/>riouſly that they heard the dreadfull ſound of <hi>Ariſe ye dead and come to Judgment,</hi> continually in their ears, they would never do amiſs: and certain it is, however they may flatter and in dulge themſelves in a long Security, <hi>It is ap<g ref="char:EOLhyphen"/>pointed for all Men once to dye, and after that to come to Judgment;</hi> and where then ſhall the Sinner and Ungodly appear! how ſhall the unprofitable Servant look his Lord in the Face, when he has not only neglected to
+<pb n="6" facs="tcp:31692:4"/>improve his Talent, but has idlely and vain<g ref="char:EOLhyphen"/>ly ſquandred away the precious moments of Time allowed him to traffick with Hea<g ref="char:EOLhyphen"/>ven for Eternity! with what Face can he ap<g ref="char:EOLhyphen"/>pear before the Judge of all the Earth, to whom all darkneſs is as day; and to whom all ſecrets are layed open; all the Sins even from the firſt Commiſſion to the Grave ſtand open and naked to his view, when even himſelf ſhall be bound to confeſs he knew the Will of his Maſter and did it not!</p>
+            <p>What I ſay, will thoſe that triffe away their days in eaſe and idleneſs, and the pur<g ref="char:EOLhyphen"/>ſuit of vanity do in that day of fury and fear, when a univerſal flood of Fire ſhall over<g ref="char:EOLhyphen"/>ſtream the whole World, and conſume both the Beauty and Glory thereof! when at the ſound of the Trumpet all Graves ſhall open and the drouſie dead ſhall break from the Chains of Death to appear before the dread Tribunal of their Judge! for if <hi>Job</hi> confeſſed he always trembled before the Majeſty of God like one that failed in a ſtormy Tem<g ref="char:EOLhyphen"/>peſt, and that his fear hath been ſo great that he hath been unable to bear it: needs muſt then the Sinner accompanied with no<g ref="char:EOLhyphen"/>thing but an accuſing Conſcience tremble much more, when he ſees the Book opened wherein are Regiſtred all his paſt actions,
+<pb n="7" facs="tcp:31692:4"/>even every evil Thought, for which he, when leaſt able, muſt give an account for<g ref="char:punc">▪</g> as the Wiſe man ſaith, God bringeth every ſecret Work into Judgment, whether it be good or evil: and St. <hi>John</hi> ſays, <hi>The Book was opened, and the dead were judged out of the things that were written therein.</hi> Oh! then it will be that the Rocks and Mountains will be called upon in vain to hide the Guilty from the face of the Lamb, and from the Face of him that ſitteth upon the Throne.</p>
+            <p>Oh conſider! it is a terrible thing to fall into the hands of the living God; for the Kingly Prophet affirms that if his Wrath be but a little kindled in his Breaſt, <hi>Bleſſed are they that put their truſt in him,</hi> Pſalm. 2.12. <hi>For who can dwell with the everlaſting Bur<g ref="char:EOLhyphen"/>nings!</hi> Iſa. 14 and with ſuch muſt thoſe dwell not for a time but to all Eternity, who put far away the Evil day, and by re<g ref="char:EOLhyphen"/>lying, at moſt, upon a Death-bed Repentance, are found unprovided of a Wedding Gar<g ref="char:EOLhyphen"/>ment when they come to the Marriage Feaſt; and ſad was his caſe and ever to be deplo<g ref="char:EOLhyphen"/>red who was ſo found, as you may read it, <hi>Mat.</hi> 22.11.12.13. <hi>viz. And when the King came in to ſee the Gueſt, he ſaw there a Man that had not on a Wedding Garment, and he ſaid unto him, friend, how cameſt thou in hither
+<pb n="8" facs="tcp:31692:5"/>not having a Wedding Garment? and he was ſpeechleſs, then ſaid the King to the Servants, Bind him hand and foot and take him away and caſt him into utter darkneſs, there ſhall be weeping and naſhing of teeth:</hi> in the like man<g ref="char:EOLhyphen"/>ner ſhall Sinners in the laſt day be ſpeechleſs that is, confounded and amazed at the ſenſe of their guilt, not knowing what excuſe to make for the breach of thoſe Laws that were enjoyned them upon no leſſer a penalty than eternal Death to thoſe that break them; and on the other hand, no leſs than an Eternal weight of Glory, a Crown of Righteouſneſs and Pleaſures that fade not away, to thoſe that keep them and perſevere in them. For when the Son of Man ſhall come in his Glo<g ref="char:EOLhyphen"/>ry and the Holy Angels with him, then ſhall he ſit upon the Throne of his Glory, and be<g ref="char:EOLhyphen"/>fore him ſhall be gathered all Nations; and he ſhall ſeparate them out from one another as the Shepherd divideth the Sheep from the Goats, <hi>and he ſhall ſet the Sheep on the Right hand but the Goats on the Left,</hi> Mat. 25.31.32.33. then ſhall the one be rewarded and the other puniſhed, for by the Sheep are meant thoſe that have perſevered in well-doing, thoſe that know their Lords Will and obey it; and by Goats thoſe that deſpiſe his Coun<g ref="char:EOLhyphen"/>ſells and will have none of his Reproofs, as
+<pb n="9" facs="tcp:31692:5"/>will plainly appear in the ſubſequent verſes of the foregoing Chapter, and in the 46. verſe the definitive Sentence, <hi>viz.</hi> Theſe, meaning the Goats placed on the Left hand, shall go into everlaſting punishment; but the Righteous, meaning the Sheep, on the Right hand into Life Eternal.</p>
+            <p>Conſider theſe things, all you that have as yet the Golden opportunity left by Time in you hands, and <hi>Kiſs the Son leaſt he be angry and ye periſh in the way.</hi> Pſal. 2.12. for al<g ref="char:EOLhyphen"/>though the young man shine to day like the gliſt'ring of a Dove's neck, and dance like a bubble upon the Waves, yet too morrow he may ſet in the gloomy shades of Death and his place remember him no more. How many are there that ſink ſuddenly into the blackneſs of night, and are laid up in the gloomy Caves of during Darkneſs, till the Arch-angel's Trumpet rouze them from their long ſleep, to appear with the reſt gathered from the four Winds of Heaven, when they the leaſt dream'd of leaving their Pageant Glories, when they thought they moſt ſe<g ref="char:EOLhyphen"/>curely hugged and embraced the trifling va<g ref="char:EOLhyphen"/>nities of the lower. World, putting far away the evil day, like the Fool in the Goſpel, who flattered his Soul with eaſe and plenty for a long time, but found alaſs! his Ex<g ref="char:EOLhyphen"/>pectation
+<pb n="10" facs="tcp:31692:6"/>failed; for even that very night his Soul was required of him, and then too fatally he found that he had troubled himſelf in gathering Riches and knew not who should enjoy them; in gathering Riches that made themſelves Wings and flew away, and cou'd not, had they been more perma<g ref="char:EOLhyphen"/>nent and durable, have at all relieved him in his laſt and greateſt neceſſity, as you will find it in <hi>Luke.</hi> 1. <hi>chap.</hi> 12. <hi>&amp;c.</hi> and though as we ſee the Rich Man whilſt he lived upon Earth had all the Pleaſures and Delights that the World could afford him, he fared riotouſly every day, and was clad in purple; yet ſee how poorly theſe availed him, for which he had ſtrugled and laboured, perhaps many years; for being in Torment he had not a drop of Water to cool his tongue, the Mammon of Unrighteouſneſs that had barr'd him of Eternal Life, cou'd not admi<g ref="char:EOLhyphen"/>niſter him the leaſt relief, when ſuffering under the divine Vengeance, but rather increaſed with their ſad remembrance his Torments in thoſe flames. Yet to theſe, even through what Seas of Blood will ſome Men wade, as if they were the chiefeſt of all good, when indeed they bring a ſting with them that pierces through the Body and wounds the very Soul, too frequently de<g ref="char:EOLhyphen"/>ſtroying
+<pb n="11" facs="tcp:31692:6"/>our peace on Earth, and more fre<g ref="char:EOLhyphen"/>quently everlaſtingly cauſing the names of the too too fond Poſſeſſors, who make their Bellies their God, and put their truſt in Rich<g ref="char:EOLhyphen"/>es, to be blotted out of the Book of Life. Oh that Men would be wiſe! and conſider this, that they would conſider upon the pre<g ref="char:EOLhyphen"/>ſent Moments of Life depends Eternal Joys or Everlaſting Woes; and that it cannot profit a Man <hi>if he gain the whole World and looſe his own Soul,</hi> for with the immortal Soul what can ſtand in competition! not all the glittering Glories of ten thouſand worlds, were they put in the Ballance, would weigh any thing, in the terrible day when the Lord cometh with ten thouſand of his Saints to execute Judgement upon all, and to con<g ref="char:EOLhyphen"/>vince all that are ungodly among them, of all the Ungodly deeds which they have ungodly committed, <hi>&amp;c. Jude,</hi> 1.14.15. if all the things ſo valued in this World can<g ref="char:EOLhyphen"/>not bribe Death, which is the in let to Eter<g ref="char:EOLhyphen"/>nity, much leſs can any expect that the im<g ref="char:EOLhyphen"/>partial Judge of all the Earth ſhould any way regard tranſitory things; or that they ſhould weigh in the leaſt with him at whoſe diſpoſal and in whoſe hands is all the breath of Life, and who indeed is the very Centre of the Soul of Man, and by whom it is alone
+<pb n="12" facs="tcp:31692:7"/>comprehended, ſo that the World can ren<g ref="char:EOLhyphen"/>der it no ſatisfaction as to its Eternal eſtate nor is it capable of attaining for the leaſt Tranſgreſſion, <hi>When the Lord Jeſus ſhall b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> revealed from Heaven with his mighty Angels in flaming Fire, taking vengeance on thoſe that know not God and obeyed not the Goſpel of our Lord Jeſus Chriſt,</hi> 2. Theſſa. 1.7.8. when thoſe who conceived themſelves ſecurely fenced by Riches and Honour, ſhall be tumbled by Death from a Bed of Downe in<g ref="char:EOLhyphen"/>to a Bed of Flames, what relief can they hope for or expect from all they poſſeſſed which at moſt, if any remembrance of tempo<g ref="char:EOLhyphen"/>ral things be left beyond the Grave, will prove but a Melancholly ſight to ſhew them the height of Happineſs from whence they fell, and the depth of miſery into which they are fallen; eſpecially if we conſider what a dreadfull ſentence is pronounced in the fol<g ref="char:EOLhyphen"/>lowing verſe of the foregoing chapter, <hi>viz. Who ſhall be puniſhed with everlaſting deſtructi<g ref="char:EOLhyphen"/>on from the Preſence of the Lord and from the glory of his power;</hi> a deſtruction irrevocable, not to be recalled, but as long as God is God, ſo long ſhall it continue infinite ages of Eternity and never expire; for cou'd there be the leaſt room for hope of eaſe to thoſe in Torment, though at the Revolution of
+<pb n="13" facs="tcp:31692:7"/>Millions of years, it would in ſome meaſure mitigate their pain: but ſhou'd a heap of Sand be piled up to the Clouds and a Bird carry away a Grain every day, a thouſand ſuch heaps, ſo removed, ſtand not in com<g ref="char:EOLhyphen"/>petition with the endleſs flight of never end<g ref="char:EOLhyphen"/>ing Eternity. The conſideration of which, made St. <hi>Auſtin</hi> in a manner dwell upon the word <hi>Eternity,</hi> by repeating it often that it might be ever in his mind to make him look up with the more earneſtneſs to the Author and finisher of his Faith, and oblige him to ſet the lighter eſteem on temporal things; remembring that he was a Stranger and Pil<g ref="char:EOLhyphen"/>grim upon Earth, and that here he had no tarrying City but looked for one not built with hands in the higheſt Heaven: on that alone then let us ſteadfaſtly fix our eyes, and even deny our ſelves to the flatt'ring plea<g ref="char:EOLhyphen"/>ſures and vanities of the World, that we may with the more eaſe run the Race that is ſet before us, and ſtrive with earneſtneſs to obtain the Crown that is held forth to true Believers and to ſuch as perſevere to the end, <hi>viz. Be thou faithfull until Death, and I will give thee a Crown of Life.</hi> Rev. 2.10. a Crown more valuable than ten thouſand worlds, or any thing on this ſide the fruition of the bea<g ref="char:EOLhyphen"/>tifick Viſion; the earneſt deſire of attaining
+<pb n="14" facs="tcp:31692:8"/>which, made Holy <hi>David</hi> ſay, <hi>His Soul pan<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ed after God as the Hart panted after the wate<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Brook,</hi> and in the midſt of his Rapture crye<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> out, <hi>O how amiable are thy Dwellings, th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Lord of Hoaſts! my Soul longeth and panteth t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> enter into thy Courts.</hi> Pſal. 84.1.2.</p>
+            <p>To conclude, if <hi>Foelix</hi> who was a Heathe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> tremb<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed when <hi>Paul</hi> reaſoned of Righteouſ<g ref="char:EOLhyphen"/>neſs, Temperance and Judgment to come let us that are Chriſtians conſider what man<g ref="char:EOLhyphen"/>ner of men we ought to be if we expect to ſtand in the day when the Sun shall be dark<g ref="char:EOLhyphen"/>ned and the Moon shall not give her light and the Stars shall fall from Heaven, and the Powers of the Heaven shall be shaken<g ref="char:punc">▪</g> for then shall appear the ſign of the Son of Man in Heaven, and then shall all the Tribe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the Earth mourn, and they shall ſee the Son of Man coming in the Clouds of Heaven with Power and great Glory; and he shall ſend his Angels with a great ſound of a Trumpet, and they shall gather together the Elect from one end of Heaven to the o<g ref="char:EOLhyphen"/>ther, <hi>Mat.</hi> 24.29.30.31. for the which, that we may be all right and fitly prepared, Grant dear Jeſus for thy Mercies ſake. <hi>A<g ref="char:EOLhyphen"/>men.</hi>
+            </p>
+         </div>
+         <div type="occasional_prayers">
+            <div type="daily_prayers">
+               <pb n="15" facs="tcp:31692:8"/>
+               <div type="part">
+                  <head>A Prayer for <hi>Sunday,</hi> or the Firſt day of the Week.</head>
+                  <p>
+                     <hi>O</hi> Lord God, great and glorious, who by thy infinite Power and Wiſedom, after thou hadſt made all things out of nothing, in ſix days didſt betake thy ſelf to thy holy Sabbath of Reſt, and haſt enjoyned us in a perpetual memorial, ſo to keep it that it may be ſpent in praiſing thee and adoring thy Goodneſs, for all thy Mercies and Benefits beſtowed upon us. Grant I beſeech thee, thy ſaving Grace to me the moſt unworthy of thy Servants, that being enabled by thy Holy Spirit I may ſo walk according to thy Will, that when I come to dye I may given up my account with joy and not with grief; and being through the Me<g ref="char:EOLhyphen"/>rits of thy bleſſed Son and our alone Lord and Saviour, received into thy heavenly Kingdom, I may in thy Eternal Sabbath of Joy and Reſt praiſe and adore thee, ever world without end, <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>A Prayer to be ſaid on <hi>Monday,</hi> or the Second day of the Week.</head>
+                  <p>
+                     <hi>O</hi> Lord enter not into Judgment with thy Ser<g ref="char:EOLhyphen"/>vant according to his deſerts, for in thy
+<pb n="16" facs="tcp:31692:9"/>ſight can no Man living be juſtified; but rather in the abundance of thy Mercy have compaſſion on me, and pardon my Tranſgreſſions, forgive the multitude of my Iniquities, and ſuffer the Light of thy Countenance to ſhine upon me: enlighten me with thy Holy Spirit, that I may truly diſ<g ref="char:EOLhyphen"/>cern and abhor my Sins, and turn away from the Pollutions whereby I am defiled. Pardon, O Lord, and blot out the manifold offences by which I have juſtly provoked thee to let thy in<g ref="char:EOLhyphen"/>dignation wax hot againſt me till I am conſumed<g ref="char:punc">▪</g> and this I beg for the ſake and upon account of thy dear Son and our bleſſed Lord and Saviour Jeſus Chriſt, <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>A Prayer to be ſaid on <hi>Tueſday,</hi> or the Third day of the Week.</head>
+                  <p>
+                     <hi>O</hi> Lord God moſt Holy and Righteous, thou Father of Spirits and everlaſting King of Mercy, with ſhame and confuſion of Face I pro<g ref="char:EOLhyphen"/>ſtrate my ſelf before thee, acknowledging and confeſſing my vileneſs, and that my Sins are ever before thee. <hi>O</hi> pardon my manifold tranſgreſſi<g ref="char:EOLhyphen"/>ons, and in the multitude of thy mercies ſave and protect me from the Wrath to come. <hi>O</hi> give me a heart to depart from all the ways of Iniquity, and ſuffer me no more by my Sinning
+<pb n="17" facs="tcp:31692:9"/>againſt thee to grieve thy holy Spirit, but en<g ref="char:EOLhyphen"/>role me amongſt the remnant of thy Elect, to be ſealed by it to the day of Redemption; that when I leave this mortal Life I may be admitted into the number of thy Saints to praiſe thee in life E<g ref="char:EOLhyphen"/>ternal, World without end, <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>A Prayer to be ſaid on <hi>Wedneſday,</hi> or the Fourth day of the Week.</head>
+                  <p>
+                     <hi>O</hi> Lord God, gracious and merciful, of long-ſuffering, patience and forbearance, I moſt humbly and heartily return all praiſe and thanks for the manifold Bleſſings and Favours beſtowed upon me, imploring continually thy divine aſſiſt<g ref="char:EOLhyphen"/>ance, that all the actions of my life may be ſo ordered and regulated that I may not offend thee in word, thought or deed; but improve on all occaſions and in all times, the bleſſed Opportunities thou haſt been graciouſly pleaſed to put into my hands, to thy honour and glory, and to the ſafe<g ref="char:EOLhyphen"/>ty and ſalvation of my own precious and immor<g ref="char:EOLhyphen"/>tal Soul, through the Merits and Mediation of Jeſus Chriſt our Bleſſed Lord and Saviour, <hi>A<g ref="char:EOLhyphen"/>men.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <pb n="18" facs="tcp:31692:10"/>
+                  <head>A Prayer to be ſaid on <hi>Thurſday,</hi> or the Fifth day of the Week.</head>
+                  <p>GReat Creator of Heaven and Earth, Lord God infinitely wiſe and Eternal, look down upon me with the eyes of thy pity, and take compaſſion on me thy poor and unworthy Servant laden with the intollerable Load of mine Iniqui<g ref="char:EOLhyphen"/>cies, and labouring under the heavy burthen of my Sin; hear my Prayer and let my cry come unto thee; remember that I am thy Creature and the work of thy hands, and deſtroy not what thou haſt made though my Sins have deſer<g ref="char:EOLhyphen"/>ved it. Oh look not upon my Sin, but upon the Merits of thy well-beloved Son, and through his Wounds let thy Mercy plead with thy Juſtice, that ſo conſidering my weakneſs and frailty, my Heart by thy divine Spirit, may be ſo renewed within me, that growing up in Grace I may wholly apply my ſelf to thy Service and walk in thy ways to my Conſolation here and my endleſs Comfort hereafter, <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>A Prayer to be ſaid on <hi>Friday</hi> the Sixth day of the Week; for young people.</head>
+                  <p>
+                     <hi>O</hi> Lord conſider not the frailties of my Youth, nor the vanity of my younger years, but
+<pb n="19" facs="tcp:31692:10"/>pardon my former tranſgreſſions, and ingrave thy Laws on my Heart, that I may remember thee my Creator in the days of my Youth before the evil day come, laying hold of the acceptable time with all humility to proſtrate my ſelf before thee in whom alone I put my truſt. Oh let not the Adverſary gain that advantage over me, but enable me to reſiſt the power and ſubtilty of the Tempter, and manfully to fight under the Banner of thy dear Son againſt the World, the Fleſh and the Devil; that when I am taken from thy Church Militant on Earth I may be made a Member of thy Church Triumphant in Heaven, &amp; there with Angels, Arch-angels &amp; all the Compa<g ref="char:EOLhyphen"/>ny of Saints praiſe and adore thee from everlast<g ref="char:EOLhyphen"/>ing to everlaſting, VVorld without end. <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>A Prayer for <hi>Saturday</hi> or the Seventh day of the Week, or a Preparatory to the Sacrament.</head>
+                  <p>
+                     <hi>O</hi> Bleſſed Jeſus enable me to lift up my Heart and Voice in ſome meaſure to praiſe and ex<g ref="char:EOLhyphen"/>toll thy wonderfull Goodneſs, who was not only pleaſed to be born of a Virgin and to take upon thee the form of a Servant, but even to humble thy ſelf to the Death of the Croſs, to redeem and reſtore miſerable, loſt and undone Mankind, who lay in Darkneſs and the Shadow, and didſt or<g ref="char:EOLhyphen"/>dain
+<pb n="20" facs="tcp:31692:11"/>ſacred myſteries as Pledges of thy Love and a memorial of thy Death, till thy ſecond coming in Glory to judge both the Quick and the Dead. Grant that by the inward workings of thy Grace I may be ſo fitted and prepared to re<g ref="char:EOLhyphen"/>ceive thy Holy Communion, and ſpititually par<g ref="char:EOLhyphen"/>take of thy Body and Blood that it may redound to my endleſs comfort, and that having a true ſenſe of thy compaſſion towards me I may bleſs and adore thy holy name for ever and ever. <hi>A<g ref="char:EOLhyphen"/>men.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="post-Communion_prayer">
+               <head>A Prayer proper to be ſaid after the Receiving the <hi>Communion.</hi>
+               </head>
+               <p>
+                  <hi>O</hi> Lord God and moſt mercifull Father, as <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> have been ſpiritually a partaker of the my<g ref="char:EOLhyphen"/>stical Body and Blood of thy dear Son, ſo let me ever feed on him in my heart with Faith an<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Fear, and being aided and ſtrengthened by the aſſiſtance of thy Divine Spirit I may grow up is Grace, and be perfect in every good work as far as the frailties inherent to humane Nature will admit. Thoroughly purge me, O Lord, and give a clean Heart and a contrite Spirit, that I may find a renewing and a Regeneration within me, that living here according to thy will I may be numbred with thy Elect, and dying in thy fa<g ref="char:EOLhyphen"/>vour be everlaſtingly happy, through the Merits
+<pb n="21" facs="tcp:31692:11"/>of Jeſus Chriſt thy only Son and our ever Bleſſed Lord and Saviour, <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="admonitory_prayer">
+               <head>The Dying Man's Admonition to Re<g ref="char:EOLhyphen"/>pentance and Amendment of Life.</head>
+               <opener>
+                  <salute>My Beloved take this as my farewell.</salute>
+               </opener>
+               <p>IT is good for Old and Young ever to be intent upon their latter end. Labour to live ſo that when they come to dye they need not fear the Terrors of Death, which indeed to thoſe that walk uprightly can be no ways dreadfull, but rather proves a Friend to ſet the Soul at Liberty from her Earthly Priſon, and gives her leave to mount to Heaven. O conſider then, whilſt it is to day and hear the Voice of our Bleſſed Lord calling upon you to repent, and war<g ref="char:EOLhyphen"/>ning you to flee from the wrath to come: Oh flee, flee from Sin, and then the ſecond Death will have no power over you: <hi>O let your lights ſo ſhine before Men, that they ſeeing your good works may glorifie your Father which is in Heaven,</hi> and when it is your time, as now it is mine, to leave this World, you
+<pb n="22" facs="tcp:31692:12"/>may be received into the Eternal habitati<g ref="char:EOLhyphen"/>ons, and there receive an incorruptable Crown of Life. <hi>Amen.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="pious_sayings">
+            <head>The Religious and Pious <hi>Sayings</hi> o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>J. H.</hi> upon ſundry occaſions.</head>
+            <p>HAppy is the Man that putteth his tru<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in the Lord; for although he may ſuf<g ref="char:EOLunhyphen"/>fer affliction in this world, yet he ſhall be ſur<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to be rewarded in the next.</p>
+            <p>It is a good thing to live in peace and uni<g ref="char:EOLunhyphen"/>ty; for the perſon that is given to ſtrife, eve<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> brings woe to himſelf.</p>
+            <p>That Man is richeſt who makes God hi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> treaſure, and lays up an Eſtate for himſel<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in Heaven.</p>
+            <p>The ſucceſs or misfortune of worldly af<g ref="char:EOLunhyphen"/>fairs and under a kings are to be judged of in the end, and not in the beginning.</p>
+            <p>Though Sorrow may laſt for a night, ye<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to ſuch as truſt in God, Joy will come in the morning.</p>
+            <p>The four laſt things are Death, Judgment Heaven and Hell; the two firſt are certai<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="23" facs="tcp:31692:12"/>to all Men, are the reward and puniſhment of good and evil.</p>
+            <p>Who is he that wou'd not endure a mo<g ref="char:EOLhyphen"/>ment of pain for an Age of pleaſure? why then do we repine at croſſes in this world, they lead to unſpeakable and everlaſting Joys, for through many tribulations we muſt enter into the Kingdom of Heaven.</p>
+            <p>To ſeek Good early, is a great ſign of his Grace working in the heart.</p>
+            <p>Set not your mind too much upon world<g ref="char:EOLhyphen"/>ly things, leaſt they create you trouble, and become a ſnare to you.</p>
+            <p>If any one injure you, reprove him gently, that ſo he may take ſhame to himſelf for of<g ref="char:EOLhyphen"/>fending ſo good a nature.</p>
+            <p>Speak not evil of any perſon, eſpecially undeſervedly; nor lend your Ear to thoſe <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat do wickedly, for the Tongue of the Slanderer is a two-edged Sword.</p>
+            <p>Be patient in adverſity, and the day of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>roſperity will the ſooner come.</p>
+            <p>Beware of pride, for it makes many fall <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow, and renders their miſery more intol<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erable.</p>
+            <p>Where the fear of the Lord is, there true <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>appineſs dwells, and makes it aboad.</p>
+            <pb n="24" facs="tcp:31692:13"/>
+            <p> Be not diſmay'd in a good cauſe, thoug<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a ſtorm threaten you, for Innocence is <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> bold as a Lion.</p>
+            <p>Give not ear to Flatterers, for their Li<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> are full of deceit.</p>
+            <p>Let your converſation be ſuch, that y<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> give no cauſe of offence, and then no r<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>proach can faſten on you.</p>
+            <p>Wiſedom well applied, is like Rain in <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thirſty Land.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="illustration">
+            <p>
+               <figure>
+                  <figDesc>depiction of the saints in heaven and the judgement of the righteous and the damned</figDesc>
+               </figure>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
